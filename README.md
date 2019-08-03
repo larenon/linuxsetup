@@ -7,4 +7,4 @@ Install Apache, MySQL, PHP and phpMyAdmin
 - does not overwrite the MySQL password if it is already set
 
 ```bash
-curl https://raw.githubusercontent.com/aamnah/bash-scripts/master/install/amp_debian.sh | bash
+curl https://raw.githubusercontent.com/larenon/linuxsetup/master/install/amp_debian.sh | bash
