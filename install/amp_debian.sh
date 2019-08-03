@@ -125,6 +125,7 @@ setPermissions() {
 	# Permissions
 	echo -e "\n ${Cyan} Setting Ownership for /var/www.. ${Color_Off}"
 	sudo chown -R www-data:www-data /var/www
+	sudo chown -R ubuntu:ubuntu /var/www
 }
 
 restartApache() {
