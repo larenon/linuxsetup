@@ -9,4 +9,5 @@ sudo certbot --apache -d Domain.com
 
 Secure PHPMYADMIN
 sudo nano /etc/apache2/conf-available/phpmyadmin.conf
+
 and change alias from /phpmyadmin to /customname
