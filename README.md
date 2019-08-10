@@ -1,4 +1,4 @@
-## AWS_UBUNTU
+## AWS_UBUNTU ##
 
 Install Apache, MySQL, PHP and phpMyAdmin
 
