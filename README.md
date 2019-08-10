@@ -8,3 +8,5 @@ Install Apache, MySQL, PHP and phpMyAdmin
 
 ```bash
 curl https://raw.githubusercontent.com/larenon/linuxsetup/master/install/amp_debian.sh | bash
+
+sudo certbot --apache -d Domain.com
