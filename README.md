@@ -1,7 +1,7 @@
 ## AWS_UBUNTU ##
 
 Install Apache, MySQL, PHP and phpMyAdmin
-
+''
 curl https://raw.githubusercontent.com/larenon/linuxsetup/master/install/amp_debian.sh | bash
 
 Letsencrypt SSL 
